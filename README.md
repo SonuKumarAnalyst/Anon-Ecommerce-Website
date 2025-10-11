@@ -17,7 +17,6 @@ It replicates the core functionality of a real shopping platform — with produc
 - 🧺 **Shopping Cart:** Add, remove, and manage cart items in real time.  
 - 💳 **Checkout Page:** Smooth checkout experience.  
 - 🔍 **Search Functionality:** Find products quickly by name or category.  
-- 🌙 **Dark / Light Mode (optional):** Toggle modern theme modes.  
 - 📱 **Responsive Design:** Works on mobile, tablet, and desktop screens.  
 
 ---
