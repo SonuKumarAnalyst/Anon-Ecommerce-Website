@@ -3,7 +3,6 @@
 [![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)](#)
 [![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)](#)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Live Demo](https://img.shields.io/badge/Demo-View%20Now-blueviolet?logo=github)](https://sonukumar7065.github.io/Anon-Ecommerce-Website/)
 
 A modern, responsive, and fully functional **E-Commerce Website** built using **HTML, CSS, and JavaScript**.  
@@ -31,11 +30,14 @@ It replicates the core functionality of a real shopping platform — with produc
 | **CSS3** | Styling and layout |
 | **JavaScript (ES6)** | Logic and interactivity |
 
+---
 
 ## Demo
 
 ![Anon Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
 ![Anon Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+
+---
 
 ## Prerequisites
 
@@ -55,3 +57,9 @@ To install **Anon**, follow these steps:
 ## License
 
 This project is **free to use** and does not contains any license.
+
+## 👨‍💻 Author  
+
+**Sonu Kumar**  
+
+GitHub: [SonuKumar7065](https://github.com/SonuKumar7065)  
