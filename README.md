@@ -61,4 +61,4 @@ This project is **free to use** and does not contains any license.
 
 **Sonu Kumar**  
 
-GitHub: [SonuKumar7065](https://github.com/SonuKumar7065)  
+GitHub: [SonuKumarAnalyst](https://github.com/SonuKumarAnalyst)  
