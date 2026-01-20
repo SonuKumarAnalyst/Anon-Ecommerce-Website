@@ -3,7 +3,7 @@
 [![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)](#)
 [![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)](#)
-[![Live Demo](https://img.shields.io/badge/Demo-View%20Now-blueviolet?logo=github)](https://sonukumar7065.github.io/Anon-Ecommerce-Website/)
+[![Live Demo](https://img.shields.io/badge/Demo-View%20Now-blueviolet?logo=github)](https://sonukumaranalyst.github.io/Anon-Ecommerce-Website/)
 
 A modern, responsive, and fully functional **E-Commerce Website** built using **HTML, CSS, and JavaScript**.  
 It replicates the core functionality of a real shopping platform — with product listings, cart management, and a clean, modern interface.  
